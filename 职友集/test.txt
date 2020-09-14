@@ -1,0 +1,1674 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>全国公司有哪些? - 职友集</title>
+<meta name="keywords" content="全国公司有哪些，全国公司" />
+<meta name="description" content="" />
+<meta name="ROBOTS" content="all"/>
+<meta name="verify-v1" content="jBwyPl3tBTZN6Uue9J5ztOQZGHNulsIY5r/11FPNo2k=" />
+<link href="//staticcss4.jobui.com/template_1/styles/base/funct.css,reset.css--template_1/styles/www/iconfont/iconfont.css--template_1/styles/common/commonheader/commonheader.css--template_1/styles/plugin/tipsList.css,position.css,popup.css,popupV2.css,goBackTop.css--template_1/styles/common/common.css--template_1/styles/common/footer/footer.css--template_1/styles/plugin/emailTips.css--template_1/styles/www/common.css--template_1/styles/www/skin/default.css--v625.61.css" media="all" rel="stylesheet" type="text/css" />
+<link href="//staticcss4.jobui.com/template_1___styles___common___rank___common.css--template_1___styles___common___company___common.css--template_1___styles___plugin___companyFollow.css--template_1___styles___common___modf___modf.css--template_1___styles___common___pager___pager.css--template_1___styles___modules___fab.css--template_1___styles___www___company___search.css--v625.60.css" media="all" rel="stylesheet" type="text/css" />
+
+	
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?8b3e2b14eff57d444737b5e71d065e72";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+
+
+<script type ="text/javascript" charset="utf-8" src="//staticcss4.jobui.com/template_1/js/plugin/clipboard.js"></script>
+</head>
+<body class="cmp-tt" style="background-color:#f2f2f2;">
+
+
+
+
+
+
+
+	
+	<div class="header-box">
+    <div class="header-content cfix">
+        <div class="header-left">
+            <div class="fl">
+                <a class="header-logo-link" href="https://www.jobui.com">
+                    <em class="header-logo-icon"></em>
+                </a>
+            </div>
+            <a href="https://www.jobui.com" class="header-text-box first-header-text">
+                <span class="header-text">工作</span>
+            </a>
+            <a href="https://www.jobui.com/cmp" class="header-text-box">
+                <span class="header-text">公司</span>
+            </a>
+            <a href="https://www.jobui.com/salary/" class="header-text-box">
+                <span class="header-text">工资</span>
+            </a>
+            <a href="https://www.jobui.com/rank/company/view/" class="header-text-box">
+                <span class="header-text">排行榜</span>
+            </a>
+            <div class="header-more-icon-box">
+                <em class="header-more-icon j-header-more-icon"></em>
+                <div class="header-popup-content-box j-header-popup-content-box">
+                    <div class="header-popup-content">
+                        <div class="header-popup-item cfix">
+                            <a href="//www.jobui.com/jobs" class="header-popup-title">搜索工作</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/jobs" class="header-popup-text">找全职</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/jianzhi/" class="header-popup-text">找兼职</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/yingjiesheng/" class="header-popup-text">应届生</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/shixisheng/" class="header-popup-text">找实习</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/mianshiti/" class="header-popup-text">面试题</a>
+                        </div>
+                        <div class="cfix header-popup-item">
+                            <a href="//www.jobui.com/cmp" class="header-popup-title">公司点评</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/cmp" class="header-popup-text">搜索公司</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/industry/" class="header-popup-text">行业名企</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/s/500qiang/" class="header-popup-text">500强</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/rank/company/view/" class="header-popup-text">最佳人气</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/cmp/album/" class="header-popup-text">酷公司</a>
+                        </div>
+                        <div class="cfix header-popup-item">
+                            <a href="//www.jobui.com/salary/" class="header-popup-title">查工资</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/salary/" class="header-popup-text">搜索工资</a>
+                        </div>
+                        <div class="cfix header-popup-item">
+                            <a href="//www.jobui.com/trends/" class="header-popup-title">看趋势</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//www.jobui.com/trends/" class="header-popup-text">搜索趋势</a>
+                            <em class="header-popup-slash">|</em>
+                            <a href="//edu.jobui.com/major/" class="header-popup-text">大学生就业形势分析</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="header-search-top-box j-header-search-top-box">
+                <div class="header-search-seletedType j-header-search-seleted-type">
+                    <span data-type="job" class="j-header-search-selected-text">工作</span>
+                    <em class="fr" style="font-size: 18px;color: #eeeeee;margin: -2px -1px 0 0;">|</em>
+                    <em class="down-arrow-select fr j-down-arrow-select"></em>
+                </div>
+                <div class="dn header-search-type-box j-header-search-type-box">
+                    <span data-type="job" class="header-search-type j-headerSearch">工作</span>
+                    <span data-type="company" class="header-search-type j-headerSearch">公司</span>
+                    <span data-type="salary" class="header-search-type j-headerSearch">工资</span>
+                    <span data-type="trends" class="header-search-type j-headerSearch">趋势</span>
+                </div>
+                <form action="/jobs" class="header-search-form" id="headerCompanyForm">
+                    <input type="text" class="header-search-text-input fs14 j-header-search-keywordLenovo j-near-job-record-input" placeholder="输入职位或专业关键词" name="jobKw" data-set-tipslist="job" id="header-schbar-form-keyword" class="fs16 j-header-search-keywordLenovo" autocomplete="off">
+                    <input type="hidden" name="cityKw" value="" id="citykw">
+                    <input type="submit" value="" class="header-search-submit-icon">
+                </form>
+            </div>
+        </div>
+        <div class="header-right">
+            <script>
+                if (document.cookie.indexOf("isloginStatus") == -1) {
+                    document.write("<div class='header-right-text-box'><span class='j-resume-create resume-create-text header-right-text'>创建简历<span class='resume-red-dot'></span></span><a class='j-publicUser header-right-text' href='javascript:;'>个人登录/注册</a><span class='login-slash'>|</span><a class='j-enterpriseUser header-right-text' href='javascript:;'>企业用户入口</a></div>");
+                }else{
+                    document.write(unescape("%3Cscript src='//www.jobui.com/user/login.php?url="+window.location.href+"&index=1' %3E%3C/script%3E"));
+                }
+            </script>
+        </div>
+    </div>
+</div>
+
+
+	
+	<div style="width:100%;background:#fff;padding-top: 40px;box-shadow:0 1px 2px #ccc;">
+		<div style="width:1200px;margin:0 auto;">
+			
+            <div class="cfix">
+                <div class="job-search-form-box j-search-job-box" data-jobCondition="扬州">
+                    <input type="hidden" name="area" value="扬州" id="city-name">
+                    <div class="job-search-city">
+                        <input type="hidden" name="area" value="全国" id="city-name">
+                        <a href="/changecity/?from=http://www.jobui.com/cmp?keyword=&area=扬州" class="job-search-cityname-box">
+                           <span class="job-search-cityname">全国</span>
+                           <span class="job-search-arrow-icon"></span>
+                        </a>
+                        <form id="sform" method="get" action="/cmp" class="job-search-form">
+                            <input type="text" class="job-search-inputname j-keywordLenovo" value="" placeholder="输入公司关键词" name="keyword" data-set-tipslist="company" id="schbar-form-keyword" class="j-headSearchText j-keywordLenovo" autocomplete="off" />
+                            <button type="submit" class="big-button job-search-btn">搜索公司</button>
+                        </form>
+                    </div>
+                </div>
+                <h1 class="job-search-word"></h1>
+            </div>
+            
+			<input type="hidden" name="area" value="全国" id="cityName">
+            <input type="hidden" id="areaCode" value="101000" />
+            
+            <div class="job-select-box">
+                <ul>
+					<li class="cfix job-select-li">
+						<span class="job-select-title">公司行业：</span>
+						<div class="job-select-list">
+                            <div class="job-select-inner debor-line auto">
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD" class='checked'>所有</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%85%B6%E4%BB%96%E8%A1%8C%E4%B8%9A" >其他行业</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E8%B4%B8%E6%98%93%2F%E8%BF%9B%E5%87%BA%E5%8F%A3" >贸易/进出口</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%96%B0%E8%83%BD%E6%BA%90" >新能源</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%B9%BF%E5%91%8A" >广告</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E4%BA%92%E8%81%94%E7%BD%91%2F%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1" >互联网/电子商务</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%95%99%E8%82%B2%2F%E5%9F%B9%E8%AE%AD%2F%E9%99%A2%E6%A0%A1" >教育/培训/院校</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%2F%E5%8D%8A%E5%AF%BC%E4%BD%93%2F%E9%9B%86%E6%88%90%E7%94%B5%E8%B7%AF" >电子技术/半导体/集成电路</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%BB%BA%E7%AD%91%2F%E5%BB%BA%E6%9D%90%2F%E5%B7%A5%E7%A8%8B" >建筑/建材/工程</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%9C%8D%E8%A3%85%2F%E7%BA%BA%E7%BB%87%2F%E7%9A%AE%E9%9D%A9" >服装/纺织/皮革</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%87%91%E8%9E%8D%2F%E6%8A%95%E8%B5%84%2F%E8%AF%81%E5%88%B8" >金融/投资/证券</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%85%AC%E5%85%B3%2F%E5%B8%82%E5%9C%BA%E6%8E%A8%E5%B9%BF%2F%E4%BC%9A%E5%B1%95" >公关/市场推广/会展</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%8C%BB%E7%96%97%2F%E6%8A%A4%E7%90%86%2F%E5%8D%AB%E7%94%9F" >医疗/护理/卫生</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%88%BF%E5%9C%B0%E4%BA%A7" >房地产</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%AE%B6%E5%B1%85%2F%E5%AE%A4%E5%86%85%E8%AE%BE%E8%AE%A1%2F%E8%A3%85%E6%BD%A2" >家居/室内设计/装潢</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E4%B8%93%E4%B8%9A%E6%9C%8D%E5%8A%A1%28%E5%92%A8%E8%AF%A2%E3%80%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E3%80%81%E8%B4%A2%E4%BC%9A%29" >专业服务(咨询、人力资源、财会)</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%AE%B6%E5%85%B7%2F%E5%AE%B6%E7%94%B5%2F%E7%8E%A9%E5%85%B7%2F%E7%A4%BC%E5%93%81" >家具/家电/玩具/礼品</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%BF%AB%E9%80%9F%E6%B6%88%E8%B4%B9%E5%93%81%28%E9%A3%9F%E5%93%81%E3%80%81%E9%A5%AE%E6%96%99%E3%80%81%E5%8C%96%E5%A6%86%E5%93%81%29" >快速消费品(食品、饮料、化妆品)</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%A4%96%E5%8C%85%E6%9C%8D%E5%8A%A1+" >外包服务 </a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E4%BA%A4%E9%80%9A%2F%E8%BF%90%E8%BE%93%2F%E7%89%A9%E6%B5%81" >交通/运输/物流</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%A4%90%E9%A5%AE%E4%B8%9A" >餐饮业</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%9C%BA%E6%A2%B0%2F%E8%AE%BE%E5%A4%87%2F%E9%87%8D%E5%B7%A5" >机械/设备/重工</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%B1%BD%E8%BD%A6%E5%8F%8A%E9%9B%B6%E9%85%8D%E4%BB%B6" >汽车及零配件</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E6%89%B9%E5%8F%91%2F%E9%9B%B6%E5%94%AE" >批发/零售</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%8E%9F%E6%9D%90%E6%96%99%E5%92%8C%E5%8A%A0%E5%B7%A5" >原材料和加工</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%85%92%E5%BA%97%2F%E6%97%85%E6%B8%B8" >酒店/旅游</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E4%BB%AA%E5%99%A8%E4%BB%AA%E8%A1%A8%2F%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96" >仪器仪表/工业自动化</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%BD%B1%E8%A7%86%2F%E5%AA%92%E4%BD%93%2F%E8%89%BA%E6%9C%AF%2F%E6%96%87%E5%8C%96%E4%BC%A0%E6%92%AD" >影视/媒体/艺术/文化传播</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E7%9F%B3%E6%B2%B9%2F%E5%8C%96%E5%B7%A5%2F%E7%9F%BF%E4%BA%A7%2F%E5%9C%B0%E8%B4%A8" >石油/化工/矿产/地质</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%86%9C%2F%E6%9E%97%2F%E7%89%A7%2F%E6%B8%94" >农/林/牧/渔</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%88%B6%E8%8D%AF%2F%E7%94%9F%E7%89%A9%E5%B7%A5%E7%A8%8B" >制药/生物工程</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6" >计算机软件</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E4%B8%AD%E4%BB%8B%E6%9C%8D%E5%8A%A1" >中介服务</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E7%BE%8E%E5%AE%B9%2F%E4%BF%9D%E5%81%A5" >美容/保健</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%A4%96%E5%8C%85%E6%9C%8D%E5%8A%A1" >外包服务</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%A8%B1%E4%B9%90%2F%E4%BC%91%E9%97%B2%2F%E4%BD%93%E8%82%B2" >娱乐/休闲/体育</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%8D%B0%E5%88%B7%2F%E5%8C%85%E8%A3%85%2F%E9%80%A0%E7%BA%B8" >印刷/包装/造纸</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%80%9A%E4%BF%A1%2F%E7%94%B5%E4%BF%A1%2F%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87" >通信/电信/网络设备</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%87%87%E6%8E%98%E4%B8%9A%2F%E5%86%B6%E7%82%BC" >采掘业/冶炼</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E7%8E%AF%E4%BF%9D" >环保</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E7%89%A9%E4%B8%9A%E7%AE%A1%E7%90%86%2F%E5%95%86%E4%B8%9A%E4%B8%AD%E5%BF%83" >物业管理/商业中心</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%93%B6%E8%A1%8C" >银行</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%A8%B1%E4%B9%90%2F%E4%BC%91%E9%97%B2%2F%E4%BD%93%E8%82%B2+" >娱乐/休闲/体育 </a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E4%BF%9D%E9%99%A9" >保险</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E7%94%B5%E6%B0%94%2F%E7%94%B5%E5%8A%9B%2F%E6%B0%B4%E5%88%A9" >电气/电力/水利</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6" >计算机硬件</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%AD%A6%E6%9C%AF%2F%E7%A7%91%E7%A0%94" >学术/科研</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%9D%9E%E7%9B%88%E5%88%A9%E6%9C%BA%E6%9E%84" >非盈利机构</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E9%80%9A%E4%BF%A1%2F%E7%94%B5%E4%BF%A1%E8%BF%90%E8%90%A5%E3%80%81%E5%A2%9E%E5%80%BC%E6%9C%8D%E5%8A%A1" >通信/电信运营、增值服务</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%8C%BB%E7%96%97%E8%AE%BE%E5%A4%87%2F%E5%99%A8%E6%A2%B0" >医疗设备/器械</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&industry=%E5%85%B6%E4%BB%96" >其他</a>
+                                <span class="j-show-more1 condition-more">更多</span>
+                            </div>
+                        </div>
+					</li>
+					<li class="cfix job-select-li">
+						<span class="job-select-title">公司性质：</span>
+						<div class="job-select-list">
+                            <div class="job-select-inner">
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD" class='checked'>所有</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E6%B0%91%E8%90%A5%E5%85%AC%E5%8F%B8" >民营公司</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E5%90%88%E8%B5%84" >合资</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E5%9B%BD%E4%BC%81" >国企</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E5%A4%96%E8%B5%84" >外资</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8" >上市公司</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D" >事业单位</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8" >创业公司</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E9%9D%9E%E8%90%A5%E5%88%A9%E6%9C%BA%E6%9E%84" >非营利机构</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E5%A4%96%E4%BC%81%E4%BB%A3%E8%A1%A8%E5%A4%84" >外企代表处</a>
+                                    <a href="/cmp?area=%E5%85%A8%E5%9B%BD&type=%E5%85%B6%E4%BB%96%E6%80%A7%E8%B4%A8" >其他性质</a>
+                            </div>
+                        </div>
+					</li>
+					<li class="cfix job-select-li">
+						<span class="job-select-title">公司规模：</span>
+						<div class="job-select-list">
+                            <div class="job-select-inner">
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD" class='checked'>所有</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=50-99" >50-99</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=%E5%B0%91%E4%BA%8E50" >少于50</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=100-499" >100-499</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=500-999" >500-999</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=1000-4999" >1000-4999</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=5000-9999" >5000-9999</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&worker=10000%E4%BB%A5%E4%B8%8A" >10000以上</a>
+                            </div>
+                        </div>
+					</li>
+					<li class="cfix job-select-li">
+						<span class="job-select-title">企业特色：</span>
+						<div class="job-select-list">
+                            <div class="job-select-inner dea debor-line auto">
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD" class='checked'>所有</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91" >五险一金</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E7%BB%A9%E6%95%88%E5%A5%96%E9%87%91" >绩效奖金</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E8%8A%82%E6%97%A5%E7%A6%8F%E5%88%A9" >节日福利</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B8%A6%E8%96%AA%E5%B9%B4%E5%81%87" >带薪年假</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%91%98%E5%B7%A5%E6%97%85%E6%B8%B8" >员工旅游</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%B8%93%E4%B8%9A%E5%9F%B9%E8%AE%AD" >专业培训</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%85%A8%E5%8B%A4%E5%A5%96" >全勤奖</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%BC%B9%E6%80%A7%E5%B7%A5%E4%BD%9C" >弹性工作</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%91%A8%E6%9C%AB%E5%8F%8C%E4%BC%91" >周末双休</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B9%B4%E7%BB%88%E5%A5%96%E9%87%91" >年终奖金</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E9%80%9A%E8%AE%AF%E8%A1%A5%E8%B4%B4" >通讯补贴</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E9%A4%90%E9%A5%AE%E8%A1%A5%E8%B4%B4" >餐饮补贴</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%BA%A4%E9%80%9A%E8%A1%A5%E5%8A%A9" >交通补助</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%AE%9A%E6%9C%9F%E4%BD%93%E6%A3%80" >定期体检</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%BA%A4%E9%80%9A%E8%A1%A5%E8%B4%B4" >交通补贴</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8A%A0%E7%8F%AD%E8%A1%A5%E5%8A%A9" >加班补助</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E9%A4%90%E8%A1%A5" >餐补</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B9%B4%E7%BB%88%E5%A5%96" >年终奖</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8C%85%E5%90%83" >包吃</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B9%B4%E5%BA%95%E5%8F%8C%E8%96%AA" >年底双薪</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8C%85%E4%BD%8F%E5%AE%BF" >包住宿</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8C%85%E4%BD%8F" >包住</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E7%AB%8B%E5%8D%B3%E4%B8%8A%E5%B2%97" >立即上岗</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E8%AF%9D%E8%A1%A5" >话补</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B9%B4%E7%BB%88%E5%88%86%E7%BA%A2" >年终分红</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%A5%96%E9%87%91%E4%B8%B0%E5%8E%9A" >奖金丰厚</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E8%A1%A5%E5%85%85%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9" >补充医疗保险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E9%AB%98%E6%B8%A9%E8%A1%A5%E8%B4%B4" >高温补贴</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%81%9A%E4%BA%94%E4%BC%91%E4%BA%8C" >做五休二</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%87%BA%E5%B7%AE%E8%A1%A5%E8%B4%B4" >出差补贴</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E8%82%A1%E7%A5%A8%E6%9C%9F%E6%9D%83" >股票期权</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%87%BA%E5%9B%BD%E6%9C%BA%E4%BC%9A" >出国机会</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8A%A0%E7%8F%AD%E8%A1%A5%E8%B4%B4" >加班补贴</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B9%B4%E7%BB%88%E5%8F%8C%E8%96%AA" >年终双薪</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E6%88%BF%E8%A1%A5" >房补</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9" >医疗保险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9" >养老保险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%85%8D%E8%B4%B9%E7%8F%AD%E8%BD%A6" >免费班车</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E6%8F%90%E4%BE%9B%E9%A3%9F%E5%AE%BF" >提供食宿</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8" >上市公司</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%BA%94%E9%99%A9" >五险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B7%A5%E4%BC%A4%E4%BF%9D%E9%99%A9" >工伤保险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E6%8A%80%E8%83%BD%E5%9F%B9%E8%AE%AD" >技能培训</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%A4%B1%E4%B8%9A%E4%BF%9D%E9%99%A9" >失业保险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E7%94%9F%E8%82%B2%E4%BF%9D%E9%99%A9" >生育保险</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%A5%96%E9%87%91%E6%8F%90%E6%88%90" >奖金提成</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B7%A5%E4%BD%9C%E9%A4%90" >工作餐</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E4%BA%BA%E6%89%8D%E6%8E%A8%E8%8D%90%E5%A5%96" >人才推荐奖</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%8C%85%E5%90%83%E5%8C%85%E4%BD%8F" >包吃包住</a>
+                                <a href="/cmp?area=%E5%85%A8%E5%9B%BD&impression=%E5%B2%97%E4%BD%8D%E6%99%8B%E5%8D%87" >岗位晋升</a>
+                                <span class="j-show-more2 condition-more">更多</span>
+                            </div>
+                        </div>
+					</li>
+                </ul>
+            </div> 
+            
+	    </div>
+    </div>
+	
+	<div class="astruct cfix cmp-tt" style="padding-top: 10px;">
+
+
+<!-- <h1 class="textStyle" id="listInter">
+全国
+
+
+
+ 
+
+
+</h1> -->
+
+<div class="cfix" style="width:1200px;margin:0 auto;">
+	
+	
+	
+	
+	<div class="aleft">
+		<div class="m-box">
+			
+            <div class="m-title-box">
+                <div>
+                    <span>排序结果：</span>
+                    <a style="color: #333;margin-right: 5px;padding: 0 5px;border-radius: 5px;height: 28px;display: inline-block;line-height: 28px;" class='cut-selected' href="/cmp?area=%E5%85%A8%E5%9B%BD">综合↓</a>
+                    <a style="color: #333;margin-right: 5px;padding: 0 5px;border-radius: 5px;height: 28px;display: inline-block;line-height: 28px;"  href="/cmp?area=%E5%85%A8%E5%9B%BD&sortField=sortTime">更新时间↓</a>
+                    <a style="color: #333;margin-right: 5px;padding: 0 5px;border-radius: 5px;height: 28px;display: inline-block;line-height: 28px;"  href="/cmp?area=%E5%85%A8%E5%9B%BD&sortField=sortView">人气↓</a>
+                    <a style="color: #333;margin-right: 5px;padding: 0 5px;border-radius: 5px;height: 28px;display: inline-block;line-height: 28px;"  class="brn" href="/cmp?area=%E5%85%A8%E5%9B%BD&sortField=sortFollow">关注量↓</a>
+                    <span class="fr">找到<span style="color:#f60"> 13938876 </span>条结果</span>
+                </div>
+            </div>
+			
+			<div class="companyList">
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="山东绿叶制药有限公司招聘" href="/company/160136/" data-companyID="160136">
+            <img src="http://pic1.jobui.com/companyLogo/160136/14099318940525.jpeg!lsq" class="company-logo" alt="山东绿叶制药有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/160136/" title="山东绿叶制药有限公司怎么样" target="_blank">
+                    <h3>山东绿叶制药有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">160136</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        15.9万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">582人关注</span>
+						<em>/</em>
+						<span>6人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/160136/photos/581274/">
+                        <img src="http://pic1.jobui.com/companyPhoto/160136/14115476369173.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/160136/photos/581275/">
+                        <img src="http://pic1.jobui.com/companyPhoto/160136/14115476641160.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/160136/photos/581276/">
+                        <img src="http://pic1.jobui.com/companyPhoto/160136/14115476771631.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/160136/photos/581270/">
+                        <img src="http://pic1.jobui.com/companyPhoto/160136/14115476197094.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/160136/photos/581272/">
+                        <img src="http://pic1.jobui.com/companyPhoto/160136/14115476274381.jpg!s" alt="办公环境">
+                    </a>
+            </div>
+                    <div class="company-segmetation">
+                        <span class="company-impression-item">加班补助</span>
+                        <span class="company-impression-item">餐补</span>
+                        <span class="company-impression-item">年底双薪</span>
+                        <span class="company-impression-item">提供食宿</span>
+                        <span class="company-impression-item">交通补助</span>
+                        <em class="company-impression-more">...</em>
+                    </div>
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/160136/" target="_blank" title="山东绿叶制药有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/160136/salary/" target="_blank" title="山东绿叶制药有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/160136/review/" target="_blank" title="山东绿叶制药有限公司评论">公司评论(6)</a>|
+                <a class="company-title-link" href="/company/160136/photos/" target="_blank" title="山东绿叶制药有限公司照片">公司照片(13)</a>|
+                <a class="company-title-link" href="/company/160136/jobs/" target="_blank" title="山东绿叶制药有限公司招聘">招聘职位(221)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="宁波继峰汽车零部件股份有限公司招聘" href="/company/10002398/" data-companyID="10002398">
+            <img src="http://pic1.jobui.com/companyLogo/10002398/14156035637835.png!lsq" class="company-logo" alt="宁波继峰汽车零部件股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/10002398/" title="宁波继峰汽车零部件股份有限公司怎么样" target="_blank">
+                    <h3>宁波继峰汽车零部件股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">10002398</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        18.9万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">961人关注</span>
+						<em>/</em>
+						<span>19人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/10002398/photos/607315/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10002398/14156039602188.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/10002398/photos/607314/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10002398/14156039320562.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10002398/photos/853572/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10002398/14491549441627.png!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10002398/photos/607316/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10002398/14156039683219.jpg!s" alt="产品展示">
+                    </a>
+                    <a class="company-image-item" href="/company/10002398/photos/976051/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10002398/15100560232791.png!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“专业生产汽车座椅头枕、扶手”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/10002398/" target="_blank" title="宁波继峰汽车零部件股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/10002398/salary/" target="_blank" title="宁波继峰汽车零部件股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/10002398/review/" target="_blank" title="宁波继峰汽车零部件股份有限公司评论">公司评论(19)</a>|
+                <a class="company-title-link" href="/company/10002398/photos/" target="_blank" title="宁波继峰汽车零部件股份有限公司照片">公司照片(12)</a>|
+                <a class="company-title-link" href="/company/10002398/jobs/" target="_blank" title="宁波继峰汽车零部件股份有限公司招聘">招聘职位(108)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="广东高力集团有限公司招聘" href="/company/10321427/" data-companyID="10321427">
+            <img src="http://pic1.jobui.com/companyLogo/10321427/14995008035528.jpg!lsq" class="company-logo" alt="广东高力集团有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/10321427/" title="广东高力集团有限公司怎么样" target="_blank">
+                    <h3>广东高力集团有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">10321427</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        4.1万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">23人关注</span>
+						<em>/</em>
+						<span>5人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/10321427/photos/1153375/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10321427/13838967034697.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/10321427/photos/1153387/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10321427/13838967135568.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10321427/photos/1153386/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10321427/13838967221225.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10321427/photos/1153385/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10321427/13838967303143.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10321427/photos/1153384/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10321427/13838967396345.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“打造一个五星级的高力集团”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/10321427/" target="_blank" title="广东高力集团有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/10321427/salary/" target="_blank" title="广东高力集团有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/10321427/review/" target="_blank" title="广东高力集团有限公司评论">公司评论(5)</a>|
+                <a class="company-title-link" href="/company/10321427/photos/" target="_blank" title="广东高力集团有限公司照片">公司照片(15)</a>|
+                <a class="company-title-link" href="/company/10321427/jobs/" target="_blank" title="广东高力集团有限公司招聘">招聘职位(435)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="深圳市沃科卡尔科技有限公司招聘" href="/company/8063919/" data-companyID="8063919">
+            <img src="http://pic1.jobui.com/companyLogo/8063919/14302514889345.jpg!lsq" class="company-logo" alt="深圳市沃科卡尔科技有限公司">
+        </a>
+        	<span class="company-enter-link">V</span>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/8063919/" title="深圳市沃科卡尔科技有限公司怎么样" target="_blank">
+                    <h3>深圳市沃科卡尔科技有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">8063919</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-6"></em>
+                <span class="company-desc">
+                        1.4万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">7人关注</span>
+						<em>/</em>
+						<span>2人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/8063919/photos/727990/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8063919/14369558399773.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8063919/photos/727991/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8063919/14369558416921.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8063919/photos/727992/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8063919/14369558432948.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8063919/photos/747013/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8063919/14370807987713.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8063919/photos/1110400/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8063919/15298529287418.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“一家专业从事电子消费产品的贸易公司”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/8063919/" target="_blank" title="深圳市沃科卡尔科技有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/8063919/salary/" target="_blank" title="深圳市沃科卡尔科技有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/8063919/review/" target="_blank" title="深圳市沃科卡尔科技有限公司评论">公司评论(2)</a>|
+                <a class="company-title-link" href="/company/8063919/photos/" target="_blank" title="深圳市沃科卡尔科技有限公司照片">公司照片(6)</a>|
+                <a class="company-title-link" href="/company/8063919/jobs/" target="_blank" title="深圳市沃科卡尔科技有限公司招聘">招聘职位(25)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="上海移远通信技术股份有限公司招聘" href="/company/12626616/" data-companyID="12626616">
+            <img src="http://pic1.jobui.com/companyLogo/12626616/14703628462665.jpg!lsq" class="company-logo" alt="上海移远通信技术股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/12626616/" title="上海移远通信技术股份有限公司怎么样" target="_blank">
+                    <h3>上海移远通信技术股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">12626616</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-4"></em>
+                <span class="company-desc">
+                        4.3万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">3人关注</span>
+						<em>/</em>
+						<span>1人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/12626616/photos/918164/">
+                        <img src="http://pic1.jobui.com/companyPhoto/12626616/14703630828185.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/12626616/photos/918160/">
+                        <img src="http://pic1.jobui.com/companyPhoto/12626616/14703630113480.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/12626616/photos/918161/">
+                        <img src="http://pic1.jobui.com/companyPhoto/12626616/14703630336573.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/12626616/photos/918162/">
+                        <img src="http://pic1.jobui.com/companyPhoto/12626616/14703630569630.jpg!s" alt="员工活动">
+                    </a>
+                    <a class="company-image-item" href="/company/12626616/photos/918163/">
+                        <img src="http://pic1.jobui.com/companyPhoto/12626616/14703630747783.jpg!s" alt="员工活动">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“全球领先无线模块供应商”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/12626616/" target="_blank" title="上海移远通信技术股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/12626616/salary/" target="_blank" title="上海移远通信技术股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/12626616/review/" target="_blank" title="上海移远通信技术股份有限公司评论">公司评论(1)</a>|
+                <a class="company-title-link" href="/company/12626616/photos/" target="_blank" title="上海移远通信技术股份有限公司照片">公司照片(5)</a>|
+                <a class="company-title-link" href="/company/12626616/jobs/" target="_blank" title="上海移远通信技术股份有限公司招聘">招聘职位(156)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="上海药明康德新药开发有限公司招聘" href="/company/861526/" data-companyID="861526">
+            <img src="http://pic1.jobui.com/companyLogo/861526/14100566354594.jpg!lsq" class="company-logo" alt="上海药明康德新药开发有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/861526/" title="上海药明康德新药开发有限公司怎么样" target="_blank">
+                    <h3>上海药明康德新药开发有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">861526</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-4"></em>
+                <span class="company-desc">
+                        8.7万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">69人关注</span>
+						<em>/</em>
+						<span>2人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/861526/photos/718561/">
+                        <img src="http://pic1.jobui.com/companyPhoto/861526/14325482378968.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/861526/photos/718562/">
+                        <img src="http://pic1.jobui.com/companyPhoto/861526/13557407273090.jpg!s" alt="奠基仪式">
+                    </a>
+                    <a class="company-image-item" href="/company/861526/photos/509476/">
+                        <img src="http://pic1.jobui.com/companyPhoto/861526/13889626208653.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/861526/photos/688067/">
+                        <img src="http://pic1.jobui.com/companyPhoto/861526/14315059718938.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/861526/photos/688068/">
+                        <img src="http://pic1.jobui.com/companyPhoto/861526/14315059847759.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“球领先的制药、生物技术以及医疗器械研发开放式能力和技术平台公司”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/861526/" target="_blank" title="上海药明康德新药开发有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/861526/salary/" target="_blank" title="上海药明康德新药开发有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/861526/review/" target="_blank" title="上海药明康德新药开发有限公司评论">公司评论(2)</a>|
+                <a class="company-title-link" href="/company/861526/photos/" target="_blank" title="上海药明康德新药开发有限公司照片">公司照片(15)</a>|
+                <a class="company-title-link" href="/company/861526/jobs/" target="_blank" title="上海药明康德新药开发有限公司招聘">招聘职位(431)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="马瑞利汽车照明系统(佛山)有限公司招聘" href="/company/10728271/" data-companyID="10728271">
+            <img src="http://pic1.jobui.com/companyLogo/10728271/13781104243782.gif!lsq" class="company-logo" alt="马瑞利汽车照明系统(佛山)有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/10728271/" title="马瑞利汽车照明系统(佛山)有限公司怎么样" target="_blank">
+                    <h3>马瑞利汽车照明系统(佛山)有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">10728271</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        10.6万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">288人关注</span>
+						<em>/</em>
+						<span>17人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/10728271/photos/534925/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10728271/13946160634212.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10728271/photos/573333/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10728271/14095598308495.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10728271/photos/434279/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10728271/13781105399679.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10728271/photos/573335/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10728271/14095598480508.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10728271/photos/534926/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10728271/13946160715168.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“世界知名的十大汽车制造商之一”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/10728271/" target="_blank" title="马瑞利汽车照明系统(佛山)有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/10728271/salary/" target="_blank" title="马瑞利汽车照明系统(佛山)有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/10728271/review/" target="_blank" title="马瑞利汽车照明系统(佛山)有限公司评论">公司评论(17)</a>|
+                <a class="company-title-link" href="/company/10728271/photos/" target="_blank" title="马瑞利汽车照明系统(佛山)有限公司照片">公司照片(12)</a>|
+                <a class="company-title-link" href="/company/10728271/jobs/" target="_blank" title="马瑞利汽车照明系统(佛山)有限公司招聘">招聘职位(66)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="TCL集团股份有限公司招聘" href="/company/59221/" data-companyID="59221">
+            <img src="http://pic1.jobui.com/companyLogo/59221/14229553208970.png!lsq" class="company-logo" alt="TCL集团股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/59221/" title="TCL集团股份有限公司怎么样" target="_blank">
+                    <h3>TCL集团股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">59221</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        50.6万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">2069人关注</span>
+						<em>/</em>
+						<span>36人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/59221/photos/655432/">
+                        <img src="http://pic1.jobui.com/companyPhoto/59221/14140509629297.jpg!s" alt="员工活动">
+                    </a>
+                    <a class="company-image-item" href="/company/59221/photos/453146/">
+                        <img src="http://pic1.jobui.com/companyPhoto/59221/13865762870242.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/59221/photos/617479/">
+                        <img src="http://pic1.jobui.com/companyPhoto/59221/14068848046845.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/59221/photos/655429/">
+                        <img src="http://pic1.jobui.com/companyPhoto/59221/14140507099704.jpg!s" alt="员工活动">
+                    </a>
+                    <a class="company-image-item" href="/company/59221/photos/551820/">
+                        <img src="http://pic1.jobui.com/companyPhoto/59221/13801008953928.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“打造全球化的智能产品制造及互联网应用服务企业集团”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/59221/" target="_blank" title="TCL集团股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/59221/salary/" target="_blank" title="TCL集团股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/59221/review/" target="_blank" title="TCL集团股份有限公司评论">公司评论(36)</a>|
+                <a class="company-title-link" href="/company/59221/photos/" target="_blank" title="TCL集团股份有限公司照片">公司照片(73)</a>|
+                <a class="company-title-link" href="/company/59221/jobs/" target="_blank" title="TCL集团股份有限公司招聘">招聘职位(347)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="杭州万科物业服务有限公司招聘" href="/company/832148/" data-companyID="832148">
+            <img src="http://pic1.jobui.com/companyLogo/832148/14342721027700.jpg!lsq" class="company-logo" alt="杭州万科物业服务有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/832148/" title="杭州万科物业服务有限公司怎么样" target="_blank">
+                    <h3>杭州万科物业服务有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">832148</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        5.2万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">46人关注</span>
+						<em>/</em>
+						<span>6人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/832148/photos/507871/">
+                        <img src="http://pic1.jobui.com/companyPhoto/832148/13889549232320.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/832148/photos/671153/">
+                        <img src="http://pic1.jobui.com/companyPhoto/832148/14271289144229.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/832148/photos/981568/">
+                        <img src="http://pic1.jobui.com/companyPhoto/832148/15102005802908.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/832148/photos/981569/">
+                        <img src="http://pic1.jobui.com/companyPhoto/832148/15102005815889.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/832148/photos/1007061/">
+                        <img src="http://pic1.jobui.com/companyPhoto/832148/15108049934524.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“持续为客户提供专业优质的物业服务，让更多用户体验物业服务之美好”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/832148/" target="_blank" title="杭州万科物业服务有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/832148/salary/" target="_blank" title="杭州万科物业服务有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/832148/review/" target="_blank" title="杭州万科物业服务有限公司评论">公司评论(6)</a>|
+                <a class="company-title-link" href="/company/832148/photos/" target="_blank" title="杭州万科物业服务有限公司照片">公司照片(6)</a>|
+                <a class="company-title-link" href="/company/832148/jobs/" target="_blank" title="杭州万科物业服务有限公司招聘">招聘职位(408)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="朗姿股份有限公司招聘" href="/company/8855188/" data-companyID="8855188">
+            <img src="http://pic1.jobui.com/companyLogo/8855188/14133485016860.png!lsq" class="company-logo" alt="朗姿股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/8855188/" title="朗姿股份有限公司怎么样" target="_blank">
+                    <h3>朗姿股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">8855188</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        6.6万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">127人关注</span>
+						<em>/</em>
+						<span>4人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/8855188/photos/583907/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8855188/14133486478182.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8855188/photos/583908/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8855188/14133486598847.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8855188/photos/735678/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8855188/14369954340460.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8855188/photos/735679/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8855188/14369954357681.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8855188/photos/583909/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8855188/14133486700037.jpg!s" alt="产品展示">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“致力成为成就“泛时尚生态圈”的互联网化和国际化的一流时尚产业集团。”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/8855188/" target="_blank" title="朗姿股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/8855188/salary/" target="_blank" title="朗姿股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/8855188/review/" target="_blank" title="朗姿股份有限公司评论">公司评论(4)</a>|
+                <a class="company-title-link" href="/company/8855188/photos/" target="_blank" title="朗姿股份有限公司照片">公司照片(9)</a>|
+                <a class="company-title-link" href="/company/8855188/jobs/" target="_blank" title="朗姿股份有限公司招聘">招聘职位(152)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="日播时尚集团股份有限公司招聘" href="/company/11504134/" data-companyID="11504134">
+            <img src="http://pic1.jobui.com/companyLogo/11504134/14745672028971.gif!lsq" class="company-logo" alt="日播时尚集团股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/11504134/" title="日播时尚集团股份有限公司怎么样" target="_blank">
+                    <h3>日播时尚集团股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">11504134</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-6"></em>
+                <span class="company-desc">
+                        5.3万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">59人关注</span>
+						<em>/</em>
+						<span>2人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/11504134/photos/950661/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11504134/14929996064367.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/11504134/photos/953279/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11504134/13718418366484.jpeg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/11504134/photos/950419/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11504134/14925861930581.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/11504134/photos/950420/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11504134/14925864848038.PNG!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/11504134/photos/950662/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11504134/14929996281593.jpg!s" alt="办公环境">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“播厥百谷，实函斯活”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/11504134/" target="_blank" title="日播时尚集团股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/11504134/salary/" target="_blank" title="日播时尚集团股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/11504134/review/" target="_blank" title="日播时尚集团股份有限公司评论">公司评论(2)</a>|
+                <a class="company-title-link" href="/company/11504134/photos/" target="_blank" title="日播时尚集团股份有限公司照片">公司照片(5)</a>|
+                <a class="company-title-link" href="/company/11504134/jobs/" target="_blank" title="日播时尚集团股份有限公司招聘">招聘职位(94)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="海波重型工程科技股份有限公司招聘" href="/company/8009837/" data-companyID="8009837">
+            <img src="http://pic1.jobui.com/companyLogo/8009837/15662862622212.jpg!lsq" class="company-logo" alt="海波重型工程科技股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/8009837/" title="海波重型工程科技股份有限公司怎么样" target="_blank">
+                    <h3>海波重型工程科技股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">8009837</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-6"></em>
+                <span class="company-desc">
+                        1.7万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">7人关注</span>
+						<em>/</em>
+						<span>4人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/8009837/photos/996293/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8009837/15105531299429.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8009837/photos/996294/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8009837/15105531313946.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8009837/photos/996295/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8009837/15105531328289.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8009837/photos/996296/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8009837/15105531343343.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“一直致力于桥梁钢结构的造与安装”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/8009837/" target="_blank" title="海波重型工程科技股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/8009837/salary/" target="_blank" title="海波重型工程科技股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/8009837/review/" target="_blank" title="海波重型工程科技股份有限公司评论">公司评论(4)</a>|
+                <a class="company-title-link" href="/company/8009837/photos/" target="_blank" title="海波重型工程科技股份有限公司照片">公司照片(4)</a>|
+                <a class="company-title-link" href="/company/8009837/jobs/" target="_blank" title="海波重型工程科技股份有限公司招聘">招聘职位(80)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title=" 远东控股集团有限公司招聘" href="/company/10857521/" data-companyID="10857521">
+            <img src="http://pic1.jobui.com/companyLogo/10857521/13841615528890.gif!lsq" class="company-logo" alt=" 远东控股集团有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/10857521/" title=" 远东控股集团有限公司怎么样" target="_blank">
+                    <h3> 远东控股集团有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">10857521</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-6"></em>
+                <span class="company-desc">
+                        2.8万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">10人关注</span>
+						<em>/</em>
+						<span>2人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/10857521/photos/445559/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10857521/13841616360301.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/10857521/photos/445560/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10857521/13841616427281.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/10857521/photos/445561/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10857521/13841616489383.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/10857521/photos/445562/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10857521/13841616822435.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/10857521/photos/445563/">
+                        <img src="http://pic1.jobui.com/companyPhoto/10857521/13841616909655.jpg!s" alt="其他">
+                    </a>
+            </div>
+                    <div class="company-segmetation">
+                        <span class="company-impression-item">上市公司</span>
+                        <span class="company-impression-item">年终奖</span>
+                        <span class="company-impression-item">乒乓球</span>
+                        <span class="company-impression-item">五险一金</span>
+                        <span class="company-impression-item">图书馆</span>
+                        <em class="company-impression-more">...</em>
+                    </div>
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/10857521/" target="_blank" title=" 远东控股集团有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/10857521/salary/" target="_blank" title=" 远东控股集团有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/10857521/review/" target="_blank" title=" 远东控股集团有限公司评论">公司评论(2)</a>|
+                <a class="company-title-link" href="/company/10857521/photos/" target="_blank" title=" 远东控股集团有限公司照片">公司照片(23)</a>|
+                <a class="company-title-link" href="/company/10857521/jobs/" target="_blank" title=" 远东控股集团有限公司招聘">招聘职位(295)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="郑州信大捷安信息技术股份有限公司招聘" href="/company/9585574/" data-companyID="9585574">
+            <img src="http://pic1.jobui.com/companyLogo/9585574/14283936236916.png!lsq" class="company-logo" alt="郑州信大捷安信息技术股份有限公司">
+        </a>
+        	<span class="company-enter-link">V</span>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/9585574/" title="郑州信大捷安信息技术股份有限公司怎么样" target="_blank">
+                    <h3>郑州信大捷安信息技术股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">9585574</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        5.1万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">35人关注</span>
+						<em>/</em>
+						<span>4人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/9585574/photos/1121614/">
+                        <img src="http://pic1.jobui.com/companyPhoto/9585574/15435652052086.png!s" alt="公司环境">
+                    </a>
+                    <a class="company-image-item" href="/company/9585574/photos/662879/">
+                        <img src="http://pic1.jobui.com/companyPhoto/9585574/14262315993489.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/9585574/photos/662880/">
+                        <img src="http://pic1.jobui.com/companyPhoto/9585574/14262316200294.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/9585574/photos/662881/">
+                        <img src="http://pic1.jobui.com/companyPhoto/9585574/14262317535202.jpg!s" alt="员工活动">
+                    </a>
+                    <a class="company-image-item" href="/company/9585574/photos/1121601/">
+                        <img src="http://pic1.jobui.com/companyPhoto/9585574/14465196829353.jpg!s" alt="其他">
+                    </a>
+            </div>
+                    <div class="company-segmetation">
+                        <span class="company-impression-item">五险一金</span>
+                        <span class="company-impression-item">双休</span>
+                        <span class="company-impression-item">年底双薪</span>
+                        <span class="company-impression-item">加班补助</span>
+                        <span class="company-impression-item">岗位晋升</span>
+                        <em class="company-impression-more">...</em>
+                    </div>
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/9585574/" target="_blank" title="郑州信大捷安信息技术股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/9585574/salary/" target="_blank" title="郑州信大捷安信息技术股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/9585574/review/" target="_blank" title="郑州信大捷安信息技术股份有限公司评论">公司评论(4)</a>|
+                <a class="company-title-link" href="/company/9585574/photos/" target="_blank" title="郑州信大捷安信息技术股份有限公司照片">公司照片(14)</a>|
+                <a class="company-title-link" href="/company/9585574/jobs/" target="_blank" title="郑州信大捷安信息技术股份有限公司招聘">招聘职位(243)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="西安西立电子技术有限公司招聘" href="/company/276564/" data-companyID="276564">
+            <img src="http://pic1.jobui.com/companyLogo/276564/13964945961924.jpg!lsq" class="company-logo" alt="西安西立电子技术有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/276564/" title="西安西立电子技术有限公司怎么样" target="_blank">
+                    <h3>西安西立电子技术有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">276564</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-4"></em>
+                <span class="company-desc">
+                        2.7万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">52人关注</span>
+						<em>/</em>
+						<span>2人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/276564/photos/540619/">
+                        <img src="http://pic1.jobui.com/companyPhoto/276564/13964948801547.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/276564/photos/540620/">
+                        <img src="http://pic1.jobui.com/companyPhoto/276564/13964948862598.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/276564/photos/540615/">
+                        <img src="http://pic1.jobui.com/companyPhoto/276564/13964948519896.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/276564/photos/540616/">
+                        <img src="http://pic1.jobui.com/companyPhoto/276564/13964948617476.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/276564/photos/540617/">
+                        <img src="http://pic1.jobui.com/companyPhoto/276564/13964948677110.jpg!s" alt="其他">
+                    </a>
+            </div>
+                    <div class="company-segmetation">
+                        <span class="company-impression-item">绩效奖金</span>
+                        <span class="company-impression-item">员工旅游</span>
+                        <span class="company-impression-item">立即上岗</span>
+                        <span class="company-impression-item">出差补贴</span>
+                        <span class="company-impression-item">弹性工作</span>
+                        <em class="company-impression-more">...</em>
+                    </div>
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/276564/" target="_blank" title="西安西立电子技术有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/276564/salary/" target="_blank" title="西安西立电子技术有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/276564/review/" target="_blank" title="西安西立电子技术有限公司评论">公司评论(2)</a>|
+                <a class="company-title-link" href="/company/276564/photos/" target="_blank" title="西安西立电子技术有限公司照片">公司照片(9)</a>|
+                <a class="company-title-link" href="/company/276564/jobs/" target="_blank" title="西安西立电子技术有限公司招聘">招聘职位(9)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="广州金域医学检验中心有限公司招聘" href="/company/488525/" data-companyID="488525">
+            <img src="http://pic1.jobui.com/companyLogo/488525/14842019458347.jpg!lsq" class="company-logo" alt="广州金域医学检验中心有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/488525/" title="广州金域医学检验中心有限公司怎么样" target="_blank">
+                    <h3>广州金域医学检验中心有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">488525</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        10.7万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">64人关注</span>
+						<em>/</em>
+						<span>8人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/488525/photos/944876/">
+                        <img src="http://pic1.jobui.com/companyPhoto/488525/14405112873931.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/488525/photos/944877/">
+                        <img src="http://pic1.jobui.com/companyPhoto/488525/14405112906622.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/488525/photos/944878/">
+                        <img src="http://pic1.jobui.com/companyPhoto/488525/14405112922133.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/488525/photos/944879/">
+                        <img src="http://pic1.jobui.com/companyPhoto/488525/14405112938023.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“拥仁者之心守护国人”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/488525/" target="_blank" title="广州金域医学检验中心有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/488525/salary/" target="_blank" title="广州金域医学检验中心有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/488525/review/" target="_blank" title="广州金域医学检验中心有限公司评论">公司评论(8)</a>|
+                <a class="company-title-link" href="/company/488525/photos/" target="_blank" title="广州金域医学检验中心有限公司照片">公司照片(4)</a>|
+                <a class="company-title-link" href="/company/488525/jobs/" target="_blank" title="广州金域医学检验中心有限公司招聘">招聘职位(193)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="瑞斯康达科技发展股份有限公司招聘" href="/company/1503317/" data-companyID="1503317">
+            <img src="http://pic1.jobui.com/companyLogo/1503317/14113374045028.jpg!lsq" class="company-logo" alt="瑞斯康达科技发展股份有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/1503317/" title="瑞斯康达科技发展股份有限公司怎么样" target="_blank">
+                    <h3>瑞斯康达科技发展股份有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">1503317</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        5万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">24人关注</span>
+						<em>/</em>
+						<span>1人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/1503317/photos/486114/">
+                        <img src="http://pic1.jobui.com/companyPhoto/1503317/13888568968579.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/1503317/photos/65502/">
+                        <img src="http://pic1.jobui.com/companyPhoto/1503317/13684040382519.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/1503317/photos/486115/">
+                        <img src="http://pic1.jobui.com/companyPhoto/1503317/13888568985800.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/1503317/photos/486116/">
+                        <img src="http://pic1.jobui.com/companyPhoto/1503317/13888569003106.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“公司专注于光传输与光纤宽带接入领域”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/1503317/" target="_blank" title="瑞斯康达科技发展股份有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/1503317/salary/" target="_blank" title="瑞斯康达科技发展股份有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/1503317/review/" target="_blank" title="瑞斯康达科技发展股份有限公司评论">公司评论(1)</a>|
+                <a class="company-title-link" href="/company/1503317/photos/" target="_blank" title="瑞斯康达科技发展股份有限公司照片">公司照片(4)</a>|
+                <a class="company-title-link" href="/company/1503317/jobs/" target="_blank" title="瑞斯康达科技发展股份有限公司招聘">招聘职位(221)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="京信通信系统（中国）有限公司招聘" href="/company/11719367/" data-companyID="11719367">
+            <img src="http://pic1.jobui.com/companyLogo/11719367/14099204907909.jpg!lsq" class="company-logo" alt="京信通信系统（中国）有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/11719367/" title="京信通信系统（中国）有限公司怎么样" target="_blank">
+                    <h3>京信通信系统（中国）有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">11719367</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-6"></em>
+                <span class="company-desc">
+                        5.9万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">38人关注</span>
+						<em>/</em>
+						<span>3人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/11719367/photos/1084976/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11719367/13557404842930.jpg!s" alt="大楼">
+                    </a>
+                    <a class="company-image-item" href="/company/11719367/photos/1084975/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11719367/13557404844627.jpg!s" alt="大楼">
+                    </a>
+                    <a class="company-image-item" href="/company/11719367/photos/1084972/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11719367/13557404846244.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/11719367/photos/1084974/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11719367/13557404847957.jpg!s" alt="办公环境">
+                    </a>
+                    <a class="company-image-item" href="/company/11719367/photos/1084980/">
+                        <img src="http://pic1.jobui.com/companyPhoto/11719367/13557404849924.jpg!s" alt="办公环境">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“无线接入、无线优化及无线传输的通信设备及整体解决方案”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/11719367/" target="_blank" title="京信通信系统（中国）有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/11719367/salary/" target="_blank" title="京信通信系统（中国）有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/11719367/review/" target="_blank" title="京信通信系统（中国）有限公司评论">公司评论(3)</a>|
+                <a class="company-title-link" href="/company/11719367/photos/" target="_blank" title="京信通信系统（中国）有限公司照片">公司照片(34)</a>|
+                <a class="company-title-link" href="/company/11719367/jobs/" target="_blank" title="京信通信系统（中国）有限公司招聘">招聘职位(262)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="广州爱拍网络科技有限公司招聘" href="/company/8066960/" data-companyID="8066960">
+            <img src="http://pic1.jobui.com/companyLogo/8066960/14099934003152.png!lsq" class="company-logo" alt="广州爱拍网络科技有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/8066960/" title="广州爱拍网络科技有限公司怎么样" target="_blank">
+                    <h3>广州爱拍网络科技有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">8066960</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-8"></em>
+                <span class="company-desc">
+                        2.5万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">15人关注</span>
+						<em>/</em>
+						<span>3人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/8066960/photos/876338/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8066960/14522431246317.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8066960/photos/570680/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8066960/14085225022164.png!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8066960/photos/876339/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8066960/14522431259894.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8066960/photos/876340/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8066960/14522431275202.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/8066960/photos/988572/">
+                        <img src="http://pic1.jobui.com/companyPhoto/8066960/15102865909424.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“国内最大的达人原创视频社区”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/8066960/" target="_blank" title="广州爱拍网络科技有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/8066960/salary/" target="_blank" title="广州爱拍网络科技有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/8066960/review/" target="_blank" title="广州爱拍网络科技有限公司评论">公司评论(3)</a>|
+                <a class="company-title-link" href="/company/8066960/photos/" target="_blank" title="广州爱拍网络科技有限公司照片">公司照片(7)</a>|
+                <a class="company-title-link" href="/company/8066960/jobs/" target="_blank" title="广州爱拍网络科技有限公司招聘">招聘职位(66)</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="c-company-list">
+    <div class="company-logo-box">
+        <a class="company-logo-link " target="_blank" title="广州市拓璞电器发展有限公司招聘" href="/company/190689/" data-companyID="190689">
+            <img src="http://pic1.jobui.com/companyLogo/190689/14172672264502.jpg!lsq" class="company-logo" alt="广州市拓璞电器发展有限公司">
+        </a>
+    </div>
+    <div class="company-content-box">
+        <div class="company-content">
+            <div class="company-segmetation">
+                <a class="company-name" href="/company/190689/" title="广州市拓璞电器发展有限公司怎么样" target="_blank">
+                    <h3>广州市拓璞电器发展有限公司</h3>
+                </a>
+                <span class="j-company-id company-id">190689</span>
+            </div>
+            <div class="company-segmetation">
+                <em class="star-image-6"></em>
+                <span class="company-desc">
+                        5.8万次浏览
+						<em>/</em>
+						<span id="gradeFollowNum">50人关注</span>
+						<em>/</em>
+						<span>3人评价</span>
+                </span>
+            </div>
+            <div class="company-segmetation cfix">
+                    <a class="company-image-item" href="/company/190689/photos/654334/">
+                        <img src="http://pic1.jobui.com/companyPhoto/190689/14249606317843.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/190689/photos/753580/">
+                        <img src="http://pic1.jobui.com/companyPhoto/190689/14372101855155.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/190689/photos/753583/">
+                        <img src="http://pic1.jobui.com/companyPhoto/190689/14372101912211.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/190689/photos/654308/">
+                        <img src="http://pic1.jobui.com/companyPhoto/190689/14249535831078.jpg!s" alt="其他">
+                    </a>
+                    <a class="company-image-item" href="/company/190689/photos/654309/">
+                        <img src="http://pic1.jobui.com/companyPhoto/190689/14249536406873.jpg!s" alt="其他">
+                    </a>
+            </div>
+                <div class="company-short-content company-segmetation">“是一家从事产品研发设计到生产加工的高档中小型家用电器的中外合作企业”</div>	
+            <div class="company-segmetation company-title-link-box">
+                <a class="company-title-link" href="/company/190689/" target="_blank" title="广州市拓璞电器发展有限公司怎么样">公司概况</a>|
+                <a class="company-title-link" href="/company/190689/salary/" target="_blank" title="广州市拓璞电器发展有限公司工资">公司工资</a>|
+                <a class="company-title-link" href="/company/190689/review/" target="_blank" title="广州市拓璞电器发展有限公司评论">公司评论(3)</a>|
+                <a class="company-title-link" href="/company/190689/photos/" target="_blank" title="广州市拓璞电器发展有限公司照片">公司照片(10)</a>|
+                <a class="company-title-link" href="/company/190689/jobs/" target="_blank" title="广州市拓璞电器发展有限公司招聘">招聘职位(108)</a>
+            </div>
+        </div>
+    </div>
+</div>
+				<div class="c-company-list">
+					<script type="text/javascript" src="//hiapple1.jobui.com/togxdkudk.js"></script>
+				</div>
+				<div class="j-copyCmdId dn" style="padding: 20px;text-align: right;">
+					<button  class="btn" data-clipboard-action="copy" data-clipboard-target="#copyCmpId" style="display:inline-block;padding:5px 10px;background:#e0e0e0;border-radius:5px;color:#000;font-weight:bold;margin-top:5px;border:none;">一键复制公司ID</button >
+					<textarea style="position:absolute;z-index:-1;left:30px;"  type="textarea" name="copyCmpId" value="" id="copyCmpId"></textarea>
+				</div>
+            </div>
+		    
+		    <div class='pagination-box'><div class='pager cfix'><em class='selected'>1</em><a href='/cmp?area=%E5%85%A8%E5%9B%BD&n=2'>2</a><a href='/cmp?area=%E5%85%A8%E5%9B%BD&n=3'>3</a><a href='/cmp?area=%E5%85%A8%E5%9B%BD&n=4'>4</a><a class='pg-updown' href='/cmp?area=%E5%85%A8%E5%9B%BD&n=2'>下一页</a></div></div>
+		    
+	    </div>
+	</div>
+	
+	<div class="aright j-businessInfo">
+		
+		<div id="pcRightPromotionV2"></div>
+		
+		
+		<div class="bgf mb20">
+			<div id="pageGG-right-1" data-ggid="919948">
+				<script type="text/javascript" src="//hiapple1.jobui.com/rmbnjobno.js"></script>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+ </div>
+	
+	
+		
+	<div class="first-footer-box">
+		<div  class="first-footer cfix">
+			<div class="first-footer-list fl">
+				<dl>
+					<dt>关于</dt>
+					<dd><a href="http://about.jobui.com/?type=index" target="_blank">关于我们</a></dd>
+					<dd><a rel="nofollow" href="http://about.jobui.com/?type=contact_jobui"  target="_blank">联系我们</a></dd>
+					<dd><a href="//www.jobui.com/company/109916/jobs/"  target="_blank">加入我们</a></dd>
+					<dd><a rel="nofollow" href="http://about.jobui.com/?type=open"  target="_blank">开放收录</a></dd>
+					<dd><a href="//www.jobui.com/s/joinin/"  target="_blank">企业入驻</a></dd>
+					<dd><a href="//www.jobui.com/s/ads/"  target="_blank">企业推广</a></dd>
+					<dd><a href="javascript:;" class="fwb j-feedback" style="color: #D80001;">用户反馈</a></dd>
+				</dl>
+				<dl>
+					<dt>选公司</dt>
+					<dd><a href="//www.jobui.com/cmp"   target="_blank">公司搜索</a></dd>
+					<dd><a href="//www.jobui.com/rank/company/view/"  target="_blank">公司排行榜</a></dd> 
+					<dd><a href="//www.jobui.com/industry/"  target="_blank">行业招聘</a></dd>
+					<dd><a href="//www.jobui.com/foreign/" target="_blank">外企招聘</a></dd>
+					<dd><a href="//www.jobui.com/s/500qiang/" target="_blank">500强招聘</a></dd>
+					<dd><a href="//www.jobui.com/cmp/album/" target="_blank">酷公司</a></dd>
+					<dd><a href="//www.jobui.com/cmp/photo/" target="_blank">照片专辑</a></dd>
+				</dl>
+				<dl>
+					<dt>找工作</dt>
+					<dd><a href="//www.jobui.com/jobs" target="_blank">搜索职位</a></dd>
+					<dd><a href="//www.jobui.com/yingjiesheng/" target="_blank">应届生招聘</a></dd>
+					<dd><a href="//www.jobui.com/jianzhi/" target="_blank">兼职招聘</a></dd>
+					<dd><a href="//www.jobui.com/shixisheng/" target="_blank">实习生招聘</a></dd>
+					<dd><a href="//www.jobui.com/shujiagong/" target="_blank">暑假工招聘</a></dd>
+					<dd><a href="//www.jobui.com/mianshiti/" target="_blank">面试题</a></dd>
+				</dl>
+				<dl style="width: 18%;">
+					<dt>查工资</dt>
+					<dd><a  href="//www.jobui.com/salary/" target="_blank">薪酬搜索</a></dd>
+					<dt >看趋势</dt>
+					<dd><a href="//www.jobui.com/trends/"  target="_blank">趋势搜索</a></dd>
+					<dd><a href="//edu.jobui.com/major/" target="_blank">大学生就业形势分析</a></dd>
+					<dd><a href="//www.jobui.com/s/jobs/" target="_blank">最新职位</a></dd>
+					<dd><a href="//www.jobui.com/s/jobs/b/quanguo/" target="_blank">博士招聘</a></dd>
+					<dd><a href="//www.jobui.com/s/jobs/s/quanguo/" target="_blank">硕士招聘</a></dd>
+				</dl>
+				<dl style="width: 20%;">
+					<dt>职业指导/交流</dt>
+					<dd class="dn"><a href="//www.jobui.com/group/" target="_blank">小组</a></dd>
+					
+					<dd><a href="//www.jobui.com/s/zhichangfalv/" target="_blank">职场法规</a> / <a href="//www.jobui.com/s/anquanqiuzhi/" target="_blank">安全求职</a></dd>
+                    <dd>HR交流群：457455771</dd> 
+					<dd>
+						<a target="_blank" href="http://beian.miit.gov.cn" rel="nofollow">粤ICP备05102490号-1</a>
+						<div style="width: 300px;"><a target="_blank" href="http://htm4.jobui.com/template_1/images/human_resources_license.jpg" rel="nofollow">人力资源服务许可证：4401200934</a></div>
+ 						<div style="width:300px;margin:0 auto; padding:5px 0;">
+		 					<a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010602001261" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+		 						<img src="http://cdnhtm4.jobui.com/template_1/images/putRerord.png" style="float:left;"/>
+		 						<p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">粤公网安备 44010602001261号</p>
+	 						</a>
+				 		</div>
+					</dd>
+					<dd>
+						<span class="cooperation-qq">
+							<span class="cooperation-qq-logo common-icon"></span>
+							<a href="http://wpa.qq.com/msgrd?v=3&uin=359148643&site=qq&menu=yes" target="_blank">在线客服</a>
+						</span>
+					</dd>
+				</dl>
+			</div>
+			<!--<div class="footer-box">
+				<div class="wx-box" style="margin-right: 10px;">
+					<div><span class="qrcode-icon footer-box-wx"></span></div>
+					<div class="gray6">微信公众号</div>
+				</div>
+				<div class="mobile-box">
+					<div><span class="qrcode-icon footer-box-andriod"></span></div>
+					<div class="gray6">安卓 APP</div>
+				</div>
+			</div> -->
+			<div class="footer-box">
+				<div class="fl" style="margin-right: 10px;">
+                    <div class="jobui-bg"></div>
+                    <p style="color: #333;font-size:16px;">职友集</p>
+                </div>
+                <div class="fl">
+                    <div class="near-job-bg"></div>
+                    <p style="color: #333;font-size:16px;">附近的工作</p>
+                </div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+		
+			<script>var topBarQQLoginURL = '';var topBarSinaLoginURL = '';</script>
+		
+		<script type ="text/javascript" charset="utf-8" src="//cdn.bootcss.com/jquery/1.7.2/jquery.min.js"></script>
+		<script type ="text/javascript" charset="utf-8" src="//js4.jobui.com/template_1/js/plugin/Cookie.js,tipsList.js,notify.js,getNotify.js,lenovoPrompt.js,inputTips.js,afterTimeLive.js,JSModule.js,attention.js,BasePopup.js,PopupContent.js,favorite.js,scrollTopVerticalFixed.js,BasePopupV2.js,PopupContentV2.js,goBackTop.js,emailTips.js,Select.js--template_1/js/page/areaEvenDate.js--template_1/js/common/common.js--template_1/js/site/topbarStatus.js,feedback.js--template_1/js/site/plugins/utils.js--template_1/js/site/plugins/message.js,praise.js,dialog.js,expand.js,popover.js--template_1/js/site/common.js--v625.61.js"></script>
+		
+		<script type ="text/javascript" charset="utf-8" src="//js4.jobui.com/template_1/js/site/topadvertisement.js--v625.61.js"></script>
+			
+			<script type="text/javascript" charset="utf-8" src="//js4.jobui.com/template_1___js___plugin___maxWidth.js--template_1___js___common___recommendCompany.js--v625.60.js"></script>
+	
+	
+	<script type="text/javascript">
+
+	//一键复制公司ID start
+	$(document).ready(function(){
+		var clipboard = new Clipboard('.btn');
+
+		clipboard.on('success', function(e) {
+		    console.info('Action:', e.action);
+		    console.info('Text:', e.text);
+		    console.info('Trigger:', e.trigger);
+		    alert("复制成功");
+		    e.clearSelection();
+		});
+
+		clipboard.on('error', function(e) {
+		    console.error('Action:', e.action);
+		    console.error('Trigger:', e.trigger);
+		});	
+	});
+
+	var copyCmpId = ""; 
+	$(".j-company-id").each(function(i,item){
+		copyCmpId += $(item).text() + "\n" ;
+	  });
+	$("#copyCmpId").text(copyCmpId);	
+	//一键复制公司ID end
+	
+	var uiNowSite = "site_company_search";	//职友集页面统计
+	if (document.cookie.indexOf("jobui_edit_user") != -1 ) { 
+		$(".j-company-id").show();
+		$(".j-copyCmdId").show();
+	}
+	//右侧跟随滚动代码
+	jQuery(".j-right-scroll").scrollTopVerticalFixed('right-scroll');
+
+    $(".j-show-more1").expand({
+        height : 26,
+        target : $(".j-show-more1").parent(),
+        animation : false,
+        callback : function (options) {
+            var $this = $(this);
+            if (options.isShow) {
+                $this.text('收起');
+                $this.parent().removeClass('auto');
+            } else {
+                $this.text('更多');
+                $this.parent().addClass('auto');
+            }
+        }
+    });
+    $(".j-show-more2").expand({
+        height : 26,
+        target : $(".j-show-more2").parent(),
+        animation : false,
+        callback : function (options) {
+            var $this = $(this);
+            if (options.isShow) {
+                $this.text('收起');
+                $this.parent().removeClass('auto');
+            } else {
+                $this.text('更多');
+                $this.parent().addClass('auto');
+            }
+        }
+    });
+
+	// 职位搜索加载推荐行业   start
+	(function () {
+		var cityName = $('#cityName').val();
+		var keyword=$('#schbar-form-keyword').val();
+		if (document.cookie.indexOf('jobui_recommend_company') == -1) {
+			$.ajax({
+				type : 'post',
+				url : '/process/',
+				data : {
+					industry : keyword,
+					cityName : cityName,
+					formAction : 'job_search_getIndustryRank'
+				},
+				dataType : 'json',
+				success : function (result) {
+					if (result["result"] > 0) {
+						$('.aright').prepend(result["html"]);
+					}
+				}
+			})
+		};
+	})();
+	// 职位搜索加载推荐行业   end	
+	(function() {
+		// console.log(window.location.search.indexOf('invite'));
+		
+		if (window.location.search.indexOf('invite') != -1) {
+			var reg = new RegExp("(^|&)" + 'invite' + "=([^&]*)(&|$)", "i");
+    		var r = window.location.search.substr(1).match(reg);
+			var urlString = r[2];
+			$.ajax({
+				type: 'post',
+				url: '/process/',
+				data: {
+					formAction: 'company_info_invite',
+					urlString:urlString
+				},
+				dataType: 'json'
+			});
+		}
+	})();
+	</script>
+	
+	 
+		<div class="dn">
+    
+	<script src="//js4.jobui.com/js/common/UIClickLog_v2.js,UIWebLogBaseV2.js--v625.61.js" type="text/javascript" charset='UTF-8'></script>
+    <script type="text/javascript">
+        var URI = window.location.pathname;
+        var myDate = new Date();
+        var nowTime = myDate.getTime();
+        var curTime = nowTime.toString(10);
+        curTime = curTime.substr(3, 13);
+       	var tnSession = "" ;
+		var sessionKey = "" ;
+        var pageKey = hex_md5(URI + nowTime + tnSession) + curTime;
+        /*职友集统计start*/
+        UIWebLogV2();
+        /*职友集统计end*/
+    </script>
+</div>
+	
+</body>
+</html>
